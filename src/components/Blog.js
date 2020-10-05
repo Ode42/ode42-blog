@@ -9,7 +9,7 @@ class Blog extends Component {
                 "id": 0,
                 "name": "example",
                 "description": `
-                This is example post`,
+                This is example posta`,
                 "date": "4.10.2020",
                 "writer": "Author"
 

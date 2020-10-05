@@ -1,3 +1,5 @@
+Blog frontend application for Ode42 developers blog
+
 ## Available Scripts
 
 In the project directory, you can run:
